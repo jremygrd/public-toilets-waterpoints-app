@@ -1,4 +1,10 @@
 # Politique de Confidentialité
+CETTE APPLICATION N'EST PAS AFFILIÉE À LA MAIRIE DE PARIS OU TOUTE ORGANISATION GOUVERNEMENTALE.
+
+THIS APP IS NOT AFFILIATED TO THE CITY OF PARIS OR ANY GOVERNMENTAL ENTITY.
+
+DATA COME FROM PARISDATA UNDER ODBL LICENSE - OPEN DATABASE LICENSE
+
 ## 1. Introduction
 Merci de choisir notre application. Nous nous engageons à protéger la vie privée de nos utilisateurs et à traiter vos données personnelles en toute transparence. Cette politique décrit comment nous utilisons et protégeons vos données.
 
